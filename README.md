@@ -1,1 +1,1 @@
-# texts
+This repository talk about my idea about any topics.
